@@ -13,5 +13,5 @@
 
 ## Contacto
 
-- [Email Me](franconunezdev@gmail.com)
+- [Email Me](mailto:franconunezdev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/franco-nu%C3%B1ez-4460272b4/)
