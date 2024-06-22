@@ -17,7 +17,6 @@
       <h3 align="center">Destacado</h3>
       <div align="center">
         <a href="https://github.com/gitFrancoln/Repo-Java" target="_blank">
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
         </a>
       </div>
     </td>
