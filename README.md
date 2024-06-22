@@ -11,3 +11,7 @@
 - **Backend:** Java (Spring Boot), C++
 - **Bases de Datos / Databases:** MySQL, PostgreSQL, SQLite, SQL Server
 
+## Contacto
+
+- [Email Me](mailto:tu-email@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/tuperfil)
