@@ -2,7 +2,6 @@
   <h1 align="center">Hola, soy Franco 👋</h1>
 </div>
 
-<img src="https://cdn.pixabay.com/photo/2017/08/15/09/30/office-2643259_1280.jpg" alt="Teclado escribiendo">
 
 [![GitHub followers](https://img.shields.io/github/followers/gitFrancoln?style=social)](https://github.com/gitFrancoln)
 
