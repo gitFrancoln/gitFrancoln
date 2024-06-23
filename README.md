@@ -1,6 +1,5 @@
 <div align="center">
   <h1 align="center">Hola, soy Franco 👋</h1>
-  <h2 align="center">Podes ver mir proyectos al final de la página
 </div>
 
 
@@ -16,3 +15,4 @@
 
 - [Email Me](mailto:franconunezdev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/franco-nu%C3%B1ez-4460272b4/)
+  <h2 align="center">Mis proyectos👇</h2>
