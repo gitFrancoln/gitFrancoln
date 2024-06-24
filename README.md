@@ -1,9 +1,8 @@
 <div align="center">
         <video controls>
-            <source src= "https://github.com/gitFrancoln/gitFrancoln/assets/152110317/50a1b909-c260-429c-8aad-285e8e43c918"assets/videos/video.mp4" type="video/mp4">
+            <source src= "https://github.com/gitFrancoln/gitFrancoln/assets/152110317/50a1b909-c260-429c-8aad-285e8e43c918"assets/videos/video.mp4" type="video/mp4"> </video>
   <h1 align="center">Hola, soy Franco 👋</h1>
 </div>
-
 
 [![GitHub followers](https://img.shields.io/github/followers/gitFrancoln?style=social)](https://github.com/gitFrancoln)
 
