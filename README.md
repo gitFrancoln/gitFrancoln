@@ -5,7 +5,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/gitFrancoln?style=social)](https://github.com/gitFrancoln)
 
-## Sobre mí
+ Sobre mí
 - ⭐ Desarrollador ⭐
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Backend:** Java (Spring Boot), C++
@@ -17,7 +17,7 @@
 - [LinkedIn](https://www.linkedin.com/in/franco-nu%C3%B1ez-4460272b4/)
 
   
-## Portafolio
+ Portafolio
    <div align="center">
   <h2 align="center">Mis proyectos👇</h2>
 </div>
