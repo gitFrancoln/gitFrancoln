@@ -8,7 +8,7 @@
 - ⭐ Desarrollador ⭐
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Backend:** Java (Spring Boot), C++
-- **Bases de Datos / Databases:** MySQL, PostgreSQL, SQLite, SQL Server
+- **Bases de Datos / Databases:** MySQL, SQLite, SQL Server
 
  Contacto
 
