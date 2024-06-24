@@ -1,8 +1,6 @@
 <div align="center">
-  <div>
         <video controls>
             <source src= "https://github.com/gitFrancoln/gitFrancoln/assets/152110317/50a1b909-c260-429c-8aad-285e8e43c918"assets/videos/video.mp4" type="video/mp4">
-        </div>
   <h1 align="center">Hola, soy Franco 👋</h1>
 </div>
 
