@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://github.com/gitFrancoln/gitFrancoln/assets/152110317/b0dbdc94-c3a4-4612-8a12-c7de118150cc" width="200" />
+<img src="https://github.com/gitFrancoln/gitFrancoln/assets/152110317/b0dbdc94-c3a4-4612-8a12-c7de118150cc" />
     <h1 align="center">Hola👋, soy Franco</h1>
 </div>
 
