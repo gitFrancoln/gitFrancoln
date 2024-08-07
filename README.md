@@ -7,7 +7,7 @@
  Sobre mí
 - ⭐ Desarrollador ⭐
 - **Frontend:** HTML5, CSS3
-- **Backend:** Java (Spring Boot), C++
+- **Backend:** Java (Spring Boot), C++, .NET
 - **Bases de Datos / Databases:** MySQL, SQLite, SQL Server
 
  Contacto
