@@ -29,10 +29,9 @@ Si tienes alguna consulta o te gustaría trabajar conmigo, no dudes en contactar
 
 ## 🌟 **Portafolio**
 -📖 https://franconunez.netlify.app
-### Mis proyectos👇
 
 <div align="center">
-  <h3>¡Echa un vistazo a mis proyectos destacados!</h3>
+  <h3>¡Mirá mis proyectos destacados!</h3>
 </div>
 
 ---
