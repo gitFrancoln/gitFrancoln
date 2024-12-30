@@ -1,8 +1,4 @@
 # 👋 **Hola, soy Franco**
-
-[![GitHub](https://img.shields.io/github/repo-size/gitFrancoln/portfolio?style=flat-square)](https://github.com/gitFrancoln/portfolio)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/gitFrancoln/portfolio?style=flat-square)](https://github.com/gitFrancoln/portfolio)
-
 ---
 
 ## 💻 Sobre mí
