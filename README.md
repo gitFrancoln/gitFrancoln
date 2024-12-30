@@ -1,23 +1,41 @@
-<div id="header" align="center">
-    <h1 align="center">Hola👋, soy Franco</h1>
+# 👋 **Hola, soy Franco**
+
+[![GitHub](https://img.shields.io/github/repo-size/gitFrancoln/portfolio?style=flat-square)](https://github.com/gitFrancoln/portfolio)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/gitFrancoln/portfolio?style=flat-square)](https://github.com/gitFrancoln/portfolio)
+
+---
+
+## 💻 Sobre mí
+
+Soy **Desarrollador**, me gusta programar y el desarrollo de soluciones innovadoras. Mis habilidades abarcan tanto el **frontend** como el **backend**, y siempre busco aprender y aplicar nuevas tecnologías.
+
+### 📚 **Tecnologías y Herramientas**
+
+- **Frontend:** HTML5, CSS3, JavaScript, Dart
+- **Backend:** Java (Spring Boot), C++
+- **Bases de Datos:** MySQL, SQLite, SQL Server
+- **Frameworks:** Spring, Flutter
+
+---
+
+## 📬 **Contacto**
+
+Si tienes alguna consulta o te gustaría trabajar conmigo, no dudes en contactarme:
+
+- 📧 [Mi email](mailto:franconunezdev@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/franco-nu%C3%B1ez-4460272b4/)
+
+---
+
+## 🌟 **Portafolio**
+-📖 https://franconunez.netlify.app
+### Mis proyectos👇
+
+<div align="center">
+  <h3>¡Echa un vistazo a mis proyectos destacados!</h3>
 </div>
 
-[![GitHub followers](https://img.shields.io/github/followers/gitFrancoln?style=social)](https://github.com/gitFrancoln)
+---
 
- Sobre mí
-- ⭐ Desarrollador ⭐
-- **Frontend:** HTML5, CSS3, JavaScript, Dart,
-- **Backend:** Java (Spring Boot), C++,
-- **Bases de Datos / Databases:** MySQL, SQLite, SQL Server,
-- **Frameworks:** Spring, Flutter.
+¡Gracias por visitar mi perfil! 🚀
 
- Contacto
-
-- [Email Me](mailto:franconunezdev@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/franco-nu%C3%B1ez-4460272b4/)
-
-  
- Portafolio
-   <div align="center">
-  <h2 align="center">Mis proyectos👇</h2>
-</div>
