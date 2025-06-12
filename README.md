@@ -31,7 +31,7 @@ Soy **Desarrollador**, me gusta programar y el desarrollo de soluciones innovado
 Si tienes alguna consulta o te gustaría trabajar conmigo, no dudes en contactarme:
 
 - 📧 [Mi email](mailto:franconunezdev@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/franco-nu%C3%B1ez-4460272b4/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/francolnunez/)
 
 ---
 
