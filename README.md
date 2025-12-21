@@ -3,10 +3,9 @@
 
 ## 💻 Sobre mí
 
-Soy **Desarrollador**
+Soy **Desarrollador** backend
 
 ### 📚 **Tecnologías y Herramientas**
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript
 
 - **Backend:** 
   - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) Java (Spring Boot)
