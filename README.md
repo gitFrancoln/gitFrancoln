@@ -9,7 +9,7 @@ Soy **Desarrollador** backend
 
 - **Backend:** 
   - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) Java (Spring Boot)
-  -  ![Go](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) Go
+  -  ![Go](https://img.shields.io/github/go-mod/go-version/:user/:repo) Go
 
 - **Bases de Datos:**
   - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) MySQL
@@ -18,7 +18,7 @@ Soy **Desarrollador** backend
 
 - **Frameworks:** 
   - ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) Spring
-  -  ![Gin](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) Gin
+  -  ![Gin](https://img.shields.io/github/go-mod/go-version/:user/:repo) Gin
 
 ---
 ¡Gracias por visitar mi perfil! 🚀
